@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 
 const LocalIPDiscovery = () => {
     const [localIP, setLocalIP] = useState("");
+    // hi
 
     // useEffect(() => {
     //     async function findLocalIP() {
